@@ -1,7 +1,7 @@
 # Evidence gap map
 Creating an evidence gap map to visualize your literature review.
 
-<i>Note: This example of the evidence gap map is using dummy data.</i>
+<i>Note: This example of an evidence gap map uses dummy data.</i>
 
 ## PICO questions
 <br> Population = adult panda </br>
